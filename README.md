@@ -1,0 +1,7 @@
+# Road_to_Data_Scientist
+I'm actively working on self-improvement and personal development.
+
+This is only Machine learning for now.
+
+## Image
+![One Piece](https://e0.pxfuel.com/wallpapers/381/194/desktop-wallpaper-luffy-in-udon-prison-luffy-funny.jpg)
