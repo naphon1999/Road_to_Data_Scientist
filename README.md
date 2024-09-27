@@ -3,5 +3,5 @@ I'm actively working on self-improvement and personal development.
 
 It is only Machine learning for now.
 
-## Image
+## "I won't back down! I'm going to be King of the Pirates!"
 ![One Piece](https://e0.pxfuel.com/wallpapers/381/194/desktop-wallpaper-luffy-in-udon-prison-luffy-funny.jpg)
