@@ -1,8 +1,2 @@
-Type	Methods
+![image](https://github.com/user-attachments/assets/59a0a47b-33f3-49be-ac05-cbc3161aac30)
 
-Regression	Linear Regression, Polynomial Regression, Ridge, Lasso, Elastic Net,
-Decision Tree Regression, Random Forest Regression, Support Vector
-Regression (SVR), K-Nearest Neighbors Regression (KNN), Neural Networks
-Classification	Logistic Regression, K-Nearest Neighbors (KNN), Support Vector Machines,
-Decision Tree Classifier, Random Forest Classifier, Naive Bayes,
-Neural Networks, Gradient Boosting Machines
